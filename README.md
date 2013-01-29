@@ -1,3 +1,5 @@
+__*Deprecated*: Use [Event Tracker](http://www.doorkeeperhq.com/developer/event-tracker-mixpanel-kissmetrics) instead.__
+
 # KissmetricsRails
 
 TODO: Write a gem description
